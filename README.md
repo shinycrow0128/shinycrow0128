@@ -6,8 +6,8 @@ I help organizations accelerate their digital transformation by combining AI, Da
 - **Data science** models for actionable insights
 - **RPA** bots that automate repetitive tasks
 - Scalable **Full Stack** applications that bring it all together
-hello
-hello
+hello <br />
+hello <br />
 **My goal** is simple: deliver practical, high-impact solutions that reduce costs, optimize workflows, and improve business outcomes.
 
 🚀 My skillset includes:
