@@ -1,4 +1,4 @@
-#  14+ YoE in AI | Data Science | Full Stack | RPA
+#  14+ YoE in AI | Data Science | Full Stack | RPA+IoT
 
 👋 Hi.
 I help organizations accelerate their digital transformation by combining AI, Data Science, Full Stack Development, and RPA into practical business solutions. With 7+ years of experience, I deliver:
